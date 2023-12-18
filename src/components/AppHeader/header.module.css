@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    max-width: 1920px;
+    height: 88px;
+    padding: 16px 320px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: #1C1C21;
+    box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.04), 0px 4px 8px 0px rgba(0, 0, 0, 0.04), 0px 16px 24px 0px rgba(0, 0, 0, 0.04), 0px 24px 32px 0px rgba(0, 0, 0, 0.04);
+}
+
+.header a span {
+    line-height: 24px;
+    vertical-align: top;
+    display: inline-block;
+}
